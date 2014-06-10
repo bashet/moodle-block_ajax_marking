@@ -494,7 +494,7 @@ YUI().add('moodle-block_ajax_marking-mainwidget', function(Y) {
                     '<div id="cohortsrefresh" class="refreshbutton"></div>' +
                     '<div id="cohortsstatus" class="statusdiv">' +
                     M.str.block_ajax_marking.totaltomark +
-                    ' <span id="cohortscount" class="countspan"></span>' +
+                    ' <span id="cohortscount" class=""></span>' +
                     '</div>' +
                     '<div class="block_ajax_marking_spacer"></div>' +
                     '</div>' +
@@ -538,7 +538,7 @@ YUI().add('moodle-block_ajax_marking-mainwidget', function(Y) {
                     '<div id="coursesrefresh" class="refreshbutton"></div>' +
                     '<div id="coursesstatus" class="statusdiv">' +
                     M.str.block_ajax_marking.totaltomark +
-                    ' <span id="coursescount" class="countspan"></span>' +
+                    ' <span id="coursescount" class=""></span>' +
                     '</div>' +
                     '<div class="block_ajax_marking_spacer"></div>' +
                     '</div>' +
